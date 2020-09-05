@@ -1,6 +1,8 @@
 #include<stdio.h>
 #define MAX 10
 
+#program to find optimal binary search tree
+
 void main()
 {
   char ele[MAX][MAX];
